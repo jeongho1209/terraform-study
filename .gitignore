@@ -2,6 +2,7 @@
 *.tfstate.backup
 *.tfstate.lock.info
 *gitignore*.tf
+*/.terraform.lock.hcl
 .terraform/
 *.log
 *.bak
