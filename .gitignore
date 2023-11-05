@@ -17,3 +17,8 @@ override.tf.json
 .sentinel
 .terraformrc
 terraform.rc
+
+.idea
+*.iws
+*.iml
+*.ipr
